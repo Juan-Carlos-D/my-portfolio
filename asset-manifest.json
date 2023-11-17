@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Juan-Carlos-D/awesome-portfolio.git/static/css/main.18e8b48a.css",
-    "main.js": "/Juan-Carlos-D/awesome-portfolio.git/static/js/main.76362923.js",
-    "static/media/aboutthree.jpg": "/Juan-Carlos-D/awesome-portfolio.git/static/media/aboutthree.9a5b983ef27d23624a70.jpg",
-    "static/media/iss.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/iss.08026d5ac406042a7623.png",
-    "static/media/photographyport.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/photographyport.43002e69df625bb9c196.png",
-    "static/media/unsplashapi.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/unsplashapi.65d32ad5eed2dfdf5e96.png",
-    "static/media/me2.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/me2.2ead6110afd356eea167.png",
-    "static/media/fitnesstracker.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/fitnesstracker.0e55945170adec47da8f.png",
-    "static/media/neuralnetwork.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/neuralnetwork.d77b808ee8679a1095c2.png",
-    "static/media/Resume.pdf": "/Juan-Carlos-D/awesome-portfolio.git/static/media/Resume.6583fb0f74499625d9b2.pdf",
-    "static/media/pokedex2.png": "/Juan-Carlos-D/awesome-portfolio.git/static/media/pokedex2.7fce1b0aaa7ffdcce265.png",
-    "index.html": "/Juan-Carlos-D/awesome-portfolio.git/index.html",
-    "main.18e8b48a.css.map": "/Juan-Carlos-D/awesome-portfolio.git/static/css/main.18e8b48a.css.map",
-    "main.76362923.js.map": "/Juan-Carlos-D/awesome-portfolio.git/static/js/main.76362923.js.map"
+    "main.css": "/awesome-portfolio/static/css/main.18e8b48a.css",
+    "main.js": "/awesome-portfolio/static/js/main.149889c7.js",
+    "static/media/aboutthree.jpg": "/awesome-portfolio/static/media/aboutthree.9a5b983ef27d23624a70.jpg",
+    "static/media/iss.png": "/awesome-portfolio/static/media/iss.08026d5ac406042a7623.png",
+    "static/media/photographyport.png": "/awesome-portfolio/static/media/photographyport.43002e69df625bb9c196.png",
+    "static/media/unsplashapi.png": "/awesome-portfolio/static/media/unsplashapi.65d32ad5eed2dfdf5e96.png",
+    "static/media/me2.png": "/awesome-portfolio/static/media/me2.2ead6110afd356eea167.png",
+    "static/media/fitnesstracker.png": "/awesome-portfolio/static/media/fitnesstracker.0e55945170adec47da8f.png",
+    "static/media/neuralnetwork.png": "/awesome-portfolio/static/media/neuralnetwork.d77b808ee8679a1095c2.png",
+    "static/media/Resume.pdf": "/awesome-portfolio/static/media/Resume.6583fb0f74499625d9b2.pdf",
+    "static/media/pokedex2.png": "/awesome-portfolio/static/media/pokedex2.7fce1b0aaa7ffdcce265.png",
+    "index.html": "/awesome-portfolio/index.html",
+    "main.18e8b48a.css.map": "/awesome-portfolio/static/css/main.18e8b48a.css.map",
+    "main.149889c7.js.map": "/awesome-portfolio/static/js/main.149889c7.js.map"
   },
   "entrypoints": [
     "static/css/main.18e8b48a.css",
-    "static/js/main.76362923.js"
+    "static/js/main.149889c7.js"
   ]
 }
