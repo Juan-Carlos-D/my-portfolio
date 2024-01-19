@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/iss.png";
 import IMG2 from "../../assets/photographyport.png";
-import IMG3 from "../../assets/pokedex2.png";
+import IMG3 from "../../assets/eclipj2000_sky_map.png";
 import IMG4 from "../../assets/unsplashapi.png";
 import IMG5 from "../../assets/fitnesstracker.png";
 import IMG6 from "../../assets/neuralnetwork.png";
@@ -26,10 +26,10 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Pokemon API Pokedex",
+    title: "Space Science Analysis",
     github:
-      "https://github.com/Juan-Carlos-D/pokedex",
-    demo: " https://juan-carlos-d.github.io/pokedex/"
+      "https://github.com/Juan-Carlos-D/space-science",
+    demo: "#"
   },
   {
     id: 4,

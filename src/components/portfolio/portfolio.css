@@ -20,7 +20,7 @@
   .portfolio__item-image {
     border-radius: 1.5rem;
     overflow: hidden;
-    width: 390px;
+    width: 400px;
     height: 289px;
     object-fit: cover;
     margin: 0 auto;
@@ -42,6 +42,7 @@
       grid-template-columns: 1fr 1fr;
       gap: 1.2rem;
       margin: 0 auto;
+      justify-content: center;
     }
   }
   
