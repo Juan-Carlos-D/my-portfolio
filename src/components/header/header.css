@@ -1,19 +1,19 @@
 header {
-    height: 100vh;
+    height: 40vh;
     padding-top: 7rem;
     overflow: hidden;
   }
   
   .header__container {
     text-align: center;
-    height: 100%;
+    height: 50%;
     position: relative;
   }
   
   /* CTA (CALL TO ACTION BUTTONS) */
   
   .cta {
-    margin-top: 2.5rem;
+    margin-top: .5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -28,7 +28,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 1.5rem;
   }
   
   .header__socials::after {
@@ -39,7 +39,7 @@ header {
   }
   
   /* IMAGE */
-  .me {
+  /* .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
@@ -50,35 +50,70 @@ header {
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
-  }
-  
+  } */
+/*   
   .my-image {
     margin-left: 30px;
-  }
+  } */
   
   /* SCROLL DOWN */
   .scroll__down {
     position: absolute;
     right: -2.3rem;
-    bottom: 5rem;
+    bottom: 4rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
   }
   
+    /* Add styles for the dark theme */
+  .dark-theme {
+    background-color: #e4cd93; /* Example dark background color */
+    color: #ffffff; /* Example light text color */
+    --color-bg: #212529;
+    --color-bg-variant: #1F1F1F;
+    --color-primary: #816e37;
+    --color-primary-variant: #F9F5E9;
+    --color-white: #fff;
+    --color-light: rgba(255, 251, 251, 0.979);
+  }
+
+
+  .theme-toggle {
+    position: absolute;
+    top: -60px; /* Adjust the value to move the icon higher up */
+    right: 0;
+    z-index: 999; /* Adjust the z-index as needed */
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+  }
+
+
   /* MEDIA QUERIES FOR MEDIUM DEVICES */
   @media screen and (max-width: 1024px) {
     header {
-      height: 68vh;
+      height: 30vh;
+    }
+
+    
+    .header__socials {
+      bottom: -40px;
+    }
+
+    .scroll__down {
+      bottom: 20px;
     }
   }
   
   /* MEDIA QUERIES FOR SMALL DEVICES */
   @media screen and (max-width: 600px) {
     header {
-      height: 100vh;
+      height: 60vh;
     }
-  
+
     .header__socials,
     .scroll__down {
       display: none;

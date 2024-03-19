@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import Particles from "react-tsparticles";
 import {loadFull} from "tsparticles"
 
-const Design = () => {
+const Design = ({theme}) => {
     const particlesInit = useCallback(async (engine) => {
         console.log(engine);
         // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
@@ -15,6 +15,9 @@ const Design = () => {
     const particlesLoaded = useCallback(async (container) => {
         await console.log(container);
     }, []);
+
+        // Define the particle color based on the theme
+    const particleColor = theme === "dark" ? "#ffffff" : "#aadbff";
 
     return (
         <Particles
@@ -31,7 +34,7 @@ const Design = () => {
                     }
                   },
                   color: {
-                    value: "#aadbff"
+                    value: particleColor
                   },
                   shape: {
                     type: "circle",
