@@ -1,9 +1,12 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/aboutthree.jpg";
+import ME from "../../assets/code.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+// import { VscCoffee } from "react-icons/vsc";
+// import { MdOutlineHealthAndSafety } from "react-icons/md";
+// import { PiCertificateFill } from "react-icons/pi";
 
 const About = () => {
   return (
@@ -37,6 +40,25 @@ const About = () => {
               <h5>Projects</h5>
               <small>15+ Completed</small>
             </article>
+
+            {/* <article className="about__card">
+              <MdOutlineHealthAndSafety className="about__icon" />
+              <h5>Background</h5>
+              <small>Public Health & Data Management</small>
+            </article>
+
+            <article className="about__card">
+              <VscCoffee className="about__icon" />
+              <h5>Interests</h5>
+              <small>Data Science & Software Development</small>
+            </article>
+
+            <article className="about__card">
+              <PiCertificateFill  className="about__icon" />
+              <h5>Certificate</h5>
+              <small>Freemote Shopify Developer Certificate of Completion</small>
+            </article> */}
+
           </div>
 
           <p>

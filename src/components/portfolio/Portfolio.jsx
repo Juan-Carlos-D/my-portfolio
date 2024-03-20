@@ -5,7 +5,7 @@ import IMG2 from "../../assets/photographyport.png";
 import IMG3 from "../../assets/eclipj2000_sky_map.png";
 import IMG4 from "../../assets/unsplashapi.png";
 import IMG5 from "../../assets/fitnesstracker.png";
-import IMG6 from "../../assets/neuralnetwork.png";
+import IMG6 from "../../assets/Sorting.png";
 
 //THIS IS TO MAP
 const data = [
@@ -26,7 +26,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Space Science Analysis",
+    title: "Space Science Data Analysis",
     github:
       "https://github.com/Juan-Carlos-D/space-science",
     demo: "#"
@@ -48,9 +48,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Self-Driving Car Machine Learning",
-    github: "https://github.com/Juan-Carlos-D/self-driving-car",
-    demo: "https://juan-carlos-d.github.io/self-driving-car/"
+    title: "Sorting Visualizer for CS Students",
+    github: "https://github.com/Juan-Carlos-D/sorting_visualizer",
+    demo: "https://juan-carlos-d.github.io/sorting_visualizer/"
   }
 ];
 
