@@ -8,6 +8,7 @@ Juan Carlos' Portfolio is a dynamic web application showcasing proficiency in HT
 - CSS: Styled and designed the elements, enhancing the visual aesthetics and user experience.
 - JavaScript: Implemented interactive features and functionalities, providing a seamless user interface.
 - React: Leveraged React framework to develop dynamic components and optimize user interaction.
+- Python: Engineered data analysis and backend applications to organize and extract data.
 
 # Key Features
 - Project Display: Showcases a collection of projects demonstrating various skills and expertise.
