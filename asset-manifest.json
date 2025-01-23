@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.f8af10fa.css",
-    "main.js": "/my-portfolio/static/js/main.ba9e3a81.js",
+    "main.js": "/my-portfolio/static/js/main.553bc5e2.js",
     "static/media/Breast Cancer Analysis Report.pdf": "/my-portfolio/static/media/Breast Cancer Analysis Report.c2c83d943a7820d8cfb0.pdf",
     "static/media/Malaria Classifier.pdf": "/my-portfolio/static/media/Malaria Classifier.6f033babd384cfb5c427.pdf",
     "static/media/University Database Report.pdf": "/my-portfolio/static/media/University Database Report.689e2ac4ccf5e706ae87.pdf",
@@ -11,14 +11,14 @@
     "static/media/devcalisthenicsapp.png": "/my-portfolio/static/media/devcalisthenicsapp.a93af76d9a190e277149.png",
     "static/media/keypoints.jpg": "/my-portfolio/static/media/keypoints.d280e2d9c7e830682a03.jpg",
     "static/media/bcanalysis.png": "/my-portfolio/static/media/bcanalysis.70909ca57cfb3bfeb5e2.png",
-    "static/media/Juan Carlos Dominguez - Resume.pdf": "/my-portfolio/static/media/Juan Carlos Dominguez - Resume.f31d8f8bfa7f958d67fe.pdf",
+    "static/media/Juan Carlos Dominguez - Resume.pdf": "/my-portfolio/static/media/Juan Carlos Dominguez - Resume.c73fede35667ea8740ed.pdf",
     "static/media/me.jpg": "/my-portfolio/static/media/me.514d2680112072e4d515.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.f8af10fa.css.map": "/my-portfolio/static/css/main.f8af10fa.css.map",
-    "main.ba9e3a81.js.map": "/my-portfolio/static/js/main.ba9e3a81.js.map"
+    "main.553bc5e2.js.map": "/my-portfolio/static/js/main.553bc5e2.js.map"
   },
   "entrypoints": [
     "static/css/main.f8af10fa.css",
-    "static/js/main.ba9e3a81.js"
+    "static/js/main.553bc5e2.js"
   ]
 }
